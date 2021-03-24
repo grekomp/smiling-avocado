@@ -1,12 +1,12 @@
 ---
-title: "Guass-Markov Theorem and Multiple Regression"
-date: 2016-09-01
+title: Guass-Markov Theorem and Multiple Regression
+date: '2016-09-01'
 author: OctoMiao
-summary: Gauss-Markov Theorem
+summary: Guuuu guuu gaaa gaaa
 type: project
 tags:
   - Statistics
-  - "Gauss-Markov Theorem"
+  - Gauss-Markov Theorem
 links:
   - snm/limitations-srm-contd-and-coding.md
   - snm/single-neuron-model.md
